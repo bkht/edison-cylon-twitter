@@ -5,7 +5,7 @@ var candyman = new Candyman({
     targetDevices: [
         { devicename: 'edison01', hostname: 'edison01.local' }
     ],
-    projectName: 'blink-cylon',
+    projectName: 'tweetjacksoft',
     user: 'root',
     password: 'Vincent2014',
     startFile: 'app.js'
